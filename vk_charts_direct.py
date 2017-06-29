@@ -135,6 +135,6 @@ def main(access_token, groups_list_file):
     
 
 if __name__ == '__main__':
-    access_token = 'a892b0f1a6e8a8992e32c67a4d137996095c26329d474e0f5b549f05d245026fd1d36cbf28e0b4adaced4'
+    access_token = 'your_access_code'
     main(access_token, 'spbgroups.txt')
 
